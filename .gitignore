@@ -1,0 +1,8 @@
+profile_default/
+ipython_config.py
+
+
+
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
